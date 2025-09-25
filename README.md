@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Nitn-Pal
 - 👀 I’m interested in software stuff
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at nitn.2903@gmail.com
 
 <!---
